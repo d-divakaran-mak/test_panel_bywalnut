@@ -24,8 +24,7 @@ from odoo import api, fields, models
 from odoo.tools.safe_eval import datetime
 
 
-def get_
-    period_start_date(period):
+def get_period_start_date(period):
     """Returns the start date for the given period"""
     today = datetime.datetime.now()
 
