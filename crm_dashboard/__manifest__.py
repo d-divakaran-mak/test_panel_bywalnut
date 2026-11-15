@@ -21,7 +21,7 @@
 ################################################################################
 {
     'name': "CRM Dashboard",
-    'version': '18.0.1.0.1',
+    'version': '18.0.1.0.2',
     'category': 'Extra Tools',
     'summary': """Get a visual report of CRM through a Dashboard in CRM """,
     'description': """CRM dashboard module brings a multipurpose graphical
